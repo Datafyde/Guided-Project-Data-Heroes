@@ -40,5 +40,13 @@ data was extracted from [statistic times](https://statisticstimes.com/geography/
 we cleaned the data, only  extracting the coliumns needed
 
 #### Date DImension Table
+
+
+
+
+This is the completed data model:
+![Screenshot 2023-11-01 203348](https://github.com/Datafyde/Guided-Project-Data-Heroes/assets/135570337/095f77f6-5994-4905-bc1d-6b33fced0be3)
+
+
 					
 
